@@ -9,12 +9,12 @@ class ProjectController extends Controller {
       {
         name: 'Vue3-ts模板',
         npmName: 'lwj-vue3',
-        version: '1.0.0',
+        version: 'latest',
       },
       {
         name: 'Vue3 UI 组件库',
         npmName: 'lwj-ui',
-        version: '1.0.0',
+        version: 'latest',
       },
     ];
   }
