@@ -14,10 +14,10 @@ class ProjectController extends Controller {
         tag: [ 'project' ],
       },
       {
-        name: 'Vue3-ts模板1',
-        npmName: 'lwj-vue3',
+        name: 'Vue3-ts自定义模板',
+        npmName: 'lwj-vue3-custom',
         version: 'latest',
-        type: 'normal',
+        type: 'custom',
         tag: [ 'project' ],
       },
       {
